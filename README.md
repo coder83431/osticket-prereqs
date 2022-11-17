@@ -25,6 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zXbKNQy" data-context="false" ><a href="//imgur.com/a/zXbKNQy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>   
+</p>
+
+<p>
 <img src="https://i.imgur.com/pYxfVoR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
