@@ -63,7 +63,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Install/ Enable IIS (Internet Information Services). Windows Control Pannel < Programs and Feautures
+4. Install/ Enable IIS (Internet Information Services). Windows Control Pannel < Programs and Feautures
 </p>
 <br />
 
@@ -71,7 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/yt4ZPAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Install "Microsoft Web Platform Installer".
+5. Install "Microsoft Web Platform Installer".
       - Add "MySQL 5.5"
       - Add All Simple Versions Of X86PHP Up Until 7.3
 </p>
@@ -81,7 +81,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/8ob8uQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Install osTicket v1.15.8.
+6. Install osTicket v1.15.8.
 </p>
 <br />
 
@@ -89,7 +89,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/SbhSS6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Go Back To IIS, Sites->Default->osTicket, Double click PHP Manager, Enable PHP_imap.dll, Enable PHP_intl.dll, Enable PHP_opcache.dll
+7. Go Back To IIS, Sites->Default->osTicket, Double click PHP Manager, Enable PHP_imap.dll, Enable PHP_intl.dll, Enable PHP_opcache.dll
 </p>
 <br />
 
@@ -97,7 +97,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/wVSvcC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Rename File To OST-Config.PHP And Assign Permissions To File.
+8. Rename File To OST-Config.PHP And Assign Permissions To File.
 </p>
 <br />
 
@@ -105,7 +105,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/U0zZqC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Continue Setting Up OsTicket In Browser.
+9. Continue Setting Up OsTicket In Browser.
   -Name Help Desk
   -Add Default Email
 </p>
@@ -115,7 +115,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/IdTzZWd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9. Download And Install HeidiSQL.
+10. Download And Install HeidiSQL.
 </p>
 <br />
 
@@ -123,6 +123,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/0LOpcLJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10. Congratulations! OsTicket Is Ready. 
+11. OsTicket Is Ready. 
 </p>
 <br />
