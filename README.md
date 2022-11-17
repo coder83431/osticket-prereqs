@@ -24,38 +24,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
+<p>  
+<img src = "https://i.imgur.com/FoDQra2.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>Overview</p>
+
 <p>
 <img src = "https://i.imgur.com/GFYFR0R.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
  <p>
 1. Create a resource group in Azure.
 </p>                                                                                                    
                                                                                                      
 <p>
-<img src="https://i.imgur.com/pYxfVoR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/Pk3J6Rk.png" " height="80%" width="80%" alt="Disk Sanitization Steps" />
 </p>
+
 <p>
                                                                                                  
                                                                                                  
                                                                                                  
-1. Create a virtual machine within Azure.
+2. Create a virtual machine within Azure.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/g0E8vs1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dDY9AQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Open Remote Desktop.
+3. Open Remote Desktop.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/GmSUX3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Install/ Enable IIS (Internet Information Services).
+3. Install/ Enable IIS (Internet Information Services). Windows Control Pannel < Programs and Feautures
 </p>
 <br />
 
