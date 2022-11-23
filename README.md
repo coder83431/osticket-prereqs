@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation </h1>
+<h1> Prerequisites and Installation of osTicket Deployed in the Cloud (Azure) </h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -47,7 +47,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
                                                                                                  
                                                                                                  
                                                                                                  
-2. Create a virtual machine within Azure.
+2. Create a virtual machine within Azure. This virtual maxhi
 </p>
 <br />
 
