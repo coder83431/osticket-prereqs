@@ -47,7 +47,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
                                                                                                  
                                                                                                  
                                                                                                  
-2. Create a virtual machine within Azure. This virtual maxhi
+2. Create a virtual machine within Azure. When configuring the virtual machine, make sure to have it configured to be within the resource group that was previously made.
 </p>
 <br />
 
@@ -55,7 +55,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/dDY9AQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Open Remote Desktop.
+3. Open Remote Desktop. Here, you can type in the username and password when you initially made the virtual machine.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Install/ Enable IIS (Internet Information Services). Windows Control Pannel < Programs and Feautures
+4. Install/ Enable IIS (Internet Information Services). Windows Control Panel < Programs and Features
 </p>
 <br />
 
@@ -97,7 +97,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/wVSvcC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Rename File To OST-Config.PHP And Assign Permissions To File.
+8. Rename the File To OST-Config.PHP And Assign Permissions To the File.
 </p>
 <br />
 
