@@ -63,7 +63,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Install/ Enable IIS (Internet Information Services). Windows Control Panel < Programs and Features
+4. Install/ Enable IIS (Internet Information Services). Windows Control Panel < Programs and Features.
 </p>
 <br />
 
@@ -71,9 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/yt4ZPAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Install "Microsoft Web Platform Installer".
-      - Add "MySQL 5.5"
-      - Add All Simple Versions Of X86PHP Up Until 7.3
+5. Install "Microsoft Web Platform Installer". Add "MySQL 5.5" and all simple versions of X86PHP up until 7.3
 </p>
 <br />
 
@@ -89,7 +87,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/SbhSS6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Go Back To IIS, Sites->Default->osTicket, Double click PHP Manager, Enable PHP_imap.dll, Enable PHP_intl.dll, Enable PHP_opcache.dll
+7. Go Back To IIS, Sites->Default->osTicket, Double click PHP Manager, Enable PHP_imap.dll, Enable PHP_intl.dll, Enable PHP_opcache.dll.
 </p>
 <br />
 
@@ -106,8 +104,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 9. Continue Setting Up OsTicket In Browser.
-  -Name Help Desk
-  -Add Default Email
+ 
+- Name Help Desk
+- Add Default Email
+
 </p>
 <br />
 
